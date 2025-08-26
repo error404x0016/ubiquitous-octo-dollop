@@ -18,7 +18,7 @@ This comprehensive test automation framework leverages Robot Framework to stream
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/error404x0016/ubiquitous-octo-dollop.git](https://github.com/error404x0016/ubiquitous-octo-dollop.git)
+git clone https://github.com/error404x0016/ubiquitous-octo-dollop.git
 cd robot_framework_code_base_template
 ```
 
