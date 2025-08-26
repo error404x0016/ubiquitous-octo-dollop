@@ -259,7 +259,7 @@ Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of co
 ## 📜 License
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## 📞 Contact
+## 📞 Credits to the Originator of this Template :) Thank you!
 **Rafael Fernandes da Silva**
 - Email: rafatecads@gmail.com
 - LinkedIn: [Rafael Silva](https://www.linkedin.com/in/rafael-silva-8a10334b/)
